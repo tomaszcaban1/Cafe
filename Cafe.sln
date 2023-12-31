@@ -22,6 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainModels", "DomainModel
 		docs\DomainModels\Aggregates.Host.md = docs\DomainModels\Aggregates.Host.md
 		docs\DomainModels\Aggregates.Menu.md = docs\DomainModels\Aggregates.Menu.md
 		Aggregates.MenuReview.md = Aggregates.MenuReview.md
+		docs\DomainModels\Aggregates.MenuReview.md = docs\DomainModels\Aggregates.MenuReview.md
 		docs\DomainModels\Aggregates.User.md = docs\DomainModels\Aggregates.User.md
 	EndProjectSection
 EndProject
